@@ -39,4 +39,4 @@ console.log('JavaScript loaded');
 	console.log(clickme);
 	clickme.onclick = printMyName;
 	printDom();
-})
+});
