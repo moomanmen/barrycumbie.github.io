@@ -1,5 +1,5 @@
 //Script
-$(document).ready(function(){
+document.onload(function(){
 
 
 
