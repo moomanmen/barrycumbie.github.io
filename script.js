@@ -1,5 +1,5 @@
 //Script
-document.onload(function(){
+$(document).ready(function(){
 
 
 
@@ -39,4 +39,4 @@ console.log('JavaScript loaded');
 	console.log(clickme);
 	clickme.onclick = printMyName;
 	printDom();
-});
+})
